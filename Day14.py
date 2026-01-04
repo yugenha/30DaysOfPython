@@ -1,6 +1,6 @@
 from functools import reduce
-from countries_data import countries_data
-from countries import countries as countries_list
+from Data.countries_data import countries_data
+from Data.countries import countries as countries_list
 countries = ['Estonia', 'Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland']
 names = ['Asabeneh', 'Lidiya', 'Ermias', 'Abraham']
 numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]

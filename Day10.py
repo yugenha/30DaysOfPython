@@ -1,5 +1,5 @@
-from countries import countries
-from countries_data import countries_data
+from Data.countries import countries
+from Data.countries_data import countries_data
 
 for number in range(11):
     print(number)
